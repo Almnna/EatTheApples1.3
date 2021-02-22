@@ -10,7 +10,7 @@ compiled to apk using rapt
 #UPDATE#
 there is a release for the next version v1.4 (4.0) 
 made with Godot Engine appended 
-to this repository release *CheckOut* 
+to this repository release *CheckItOut* 
 ########
 
 
