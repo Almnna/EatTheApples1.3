@@ -1,0 +1,1 @@
+{"layout": "internal", "orientation": "landscape", "package": "apple.test", "include_pil": false, "name": "applesTest", "icon_name": "Apple", "version": "1.0", "permissions": ["INTERNET", "VIBRATE"], "include_sqlite": false, "numeric_version": "100"}
